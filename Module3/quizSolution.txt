@@ -1,0 +1,15 @@
+Reasonable Data Collection Problems
+✔ Selecting the best cell phone plan for yourself
+✔ Selecting the best cell phone plan for someone else
+✔ Deciding what to eat for lunch 
+(Others are not data-driven problems)
+
+Relevant Data for Climate Change Analysis (2010–2015)
+✔ Historical temperature data
+✔ Historical rainfall data
+(Others are irrelevant)
+
+Sources for Historical Weather Data
+✔ Your national weather service
+✔ Your local news stations
+(Others do not provide weather data)
