@@ -1,7 +1,11 @@
 # Algorithms-Data-Collection-and-Starting-to-Code
 
-Namaste, In this repository I have uploaded solutions for the course : Algorithms Data Collection and Starting to code.
-The file system is like this:
+Namaste,
+Welcome to the repository containing solutions for the Coursera course "Algorithms, Data Collection, and Starting to Code".   
+## Guidelines:
+Before submitting any coding assignments from this repository, please ensure that you replace the author's name with your own name in all relevant files.   
+   
+### The file system is like this:
 
 Algorithms-Data-Collection-and-Starting-to-Code/  
 │  
