@@ -19,7 +19,7 @@ Algorithms-Data-Collection-and-Starting-to-Code/
 │   └── main.c  
 │  
 ├── Module3/  
-│   ├── quizSolution.txt  
+│   ├── quizSolution.txt
 │  
 ├── Module4/  
 │   └── main.c  
