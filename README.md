@@ -26,3 +26,8 @@ Algorithms-Data-Collection-and-Starting-to-Code/
 
 Feel free to discuss if any modifications are required. 😊
 
+
+
+✨ **Happy Coding! Keep Learning & Keep Growing!** 🚀  
+<br>
+![](https://komarev.com/ghpvc/?username=VA-run&label=Visitors&color=blue)
